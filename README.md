@@ -1,2 +1,2 @@
 # qx_partner
-商户项目的PHP运行扩展
+一个提供两个特定 ini 配置项的PHP扩展
